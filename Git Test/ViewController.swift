@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         // Add 
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        //new file dfsd
+    }
 
 
 }
