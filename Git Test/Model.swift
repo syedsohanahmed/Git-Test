@@ -9,5 +9,5 @@
 import Foundation
 
 class Model {
-    
+    // Add comment
 }
